@@ -144,4 +144,3 @@ All tunable settings live in `include/config.h`.
 | Adafruit BMP085 Library | BMP180 barometric pressure |
 | Adafruit Unified Sensor | Shared sensor abstraction |
 | ArduinoJson | JSON serialization |
-| LiquidCrystal I2C | LCD display (available, not used in main sketch) |
